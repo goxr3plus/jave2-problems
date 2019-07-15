@@ -5,7 +5,7 @@ public class Main {
 
 	public Main() {
 
-		DefaultFFMPEGLocator locator = new DefaultFFMPEGLocator();
+		DefaultFFMPEGLocator locator  = new DefaultFFMPEGLocator();
 
 //		try {
 //			File source = new File("file path");
